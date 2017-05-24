@@ -17,11 +17,13 @@ A bit better than the provided audio features in FMA -- showed 63.94% of accurac
 
 ### Results (Compare these with the results from [provided baselines](https://nbviewer.jupyter.org/github/mdeff/fma/blob/outputs/baselines.ipynb))
 
-ADD RESULT IMAGE
+![result](https://github.com/keunwoochoi/FMA_convnet_features/blob/master/results_table.png)
 
 ### T-SNE
 
-ADD T-SNE RESULT
+![tsne on small](https://github.com/keunwoochoi/FMA_convnet_features/blob/master/tsne_feature_small.png)
+
+![tsne on medium](https://github.com/keunwoochoi/FMA_convnet_features/blob/master/tsne_feature_medium.png)
 
 ## Details
 
