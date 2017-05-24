@@ -10,7 +10,7 @@ A set of features that is computed from [transfer learning repo](https://github.
 
 ### What is FMA?
 
-[Free Music Archieve dataset](https://github.com/mdeff/fma)
+[Free Music Archieve dataset](https://github.com/mdeff/fma): A large collection of audio and its genre annotation released in 2017.
 
 ### How good is the feature?
  * In general, it achieved better performance than some popular audio features [as in this paper](https://arxiv.org/abs/1703.09179)
